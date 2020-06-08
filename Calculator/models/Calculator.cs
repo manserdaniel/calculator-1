@@ -55,7 +55,14 @@ namespace Calculator.models
 
         private decimal MakeDivision(decimal number1, decimal number2)
         {
-            return number1 / number2;
+            try
+            {
+                return number1 / number2;
+            }
+            catch (DivideByZeroException ex)
+            {
+                return 0.0m;
+            }
         }
     }
 }

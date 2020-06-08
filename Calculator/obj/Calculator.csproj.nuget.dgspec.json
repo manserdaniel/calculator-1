@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_8\\calculator-1\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\source\\repos\\Calculator\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_8\\calculator-1\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_8\\calculator-1\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "C:\\Users\\marco\\source\\repos\\Calculator\\Calculator\\Calculator.csproj",
-        "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\source\\repos\\Calculator\\Calculator\\obj\\",
+        "projectPath": "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_8\\calculator-1\\Calculator\\Calculator.csproj",
+        "packagesPath": "C:\\Users\\daniel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\daniel\\Desktop\\CodingCampus\\Spezialisierung_C#\\Übung_8\\calculator-1\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
